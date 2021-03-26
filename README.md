@@ -1,5 +1,5 @@
 # kitsuV2-maker-bot
-Fork of old kitsu-maker-bot by KaikyuLotus ( A Telegram Complex Bot Creator)
+Renewed Fork of old kitsu-maker-bot by KaikyuLotus ( A Telegram Complex Bot Creator)
 
 # KitsuV2 MakerBot Version 1.0 (Syntaxer)
 
